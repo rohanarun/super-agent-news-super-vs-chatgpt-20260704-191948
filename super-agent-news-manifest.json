@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[AndroidAuthority.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVHJoaUVFV0ZBU1dQZ3ZodTFJYmxxQnlLZjdLd3BIVXlEWGM4ZUNmU1VRV1JBV3VwVk5fMkZ2Qjk2VFRHRG8yYXRzblJnZnlwZ243VU5JZEZza3IzYWtDQzEyNnBteURvejU5UDl1SjdzUV85cGpEdWEwNVlENkE?oc=5)",
+    "[BleepingComputer.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVdQbU5pWEo4SWRVT1JGQzBadGxRck4wNmp1eVAzODdCYXhMZ0lnSTVVeHZVZ0UtYjFOWjJVR3NsWW1ud2lyWHN4Mkg4TjhiRjQtUXpEWmN4UF85WE9OTFIyU3JDaHFfUHlHMVNZRzlfSlBMOWhvNUN3NDI4cDdJa2lmYkcwLU9mVFgtS2syNHVUcm1XTUJDWnBzMnExQ2JjeWd2cU9uX1lWaVc5RVHSAbMBQVVfeXFMUHJtcG5RQktwZDN3M3NnSUltbkN5VmpjMGltb3dIclBhSTBiQnpmYWxXYUg4Wmo2bG5jcmlWX1dJSUg5OVlnbE41THFUbXdMWTA0TElJMVVpcFEybThwdjFqQjA2UlQ0YW1heGJ2Ri1MeF9qWDFQeHozUk5GR0J1UkgwcFYzMTRLaUJlZnpkMmRUZldvbTlKMXhCTDRtZjYtbEZPbklsdkNvd1dFbEpWblBfYm8?oc=5)",
+    "[TechTimes.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWDBYRUtINVFqWnhIS0s3SlVVSVBhT2RNSUFqMl9pX0FhcXdybGJmVmFpSjM5cmVHclBFbTl1bzRRdG92dm5TN3dtbDlzWHEwbUQwc0dWMW4zRXUxV1dQU2M1VzNFZGpIZE1vMTZlWWljSzF0N0wwd2FWQ0VmRDNKRFNOLVotc2NMeVRLR3ZWLVNaajIzMTNVdi02dHhhbUlPRnVJRnM3WDNtN2xBQWM3bjhDUTgydnFDX1hmQ0VrRTlFbG90NmxKdVBRMlBZdGpQ?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_math: max-width 1120px yields 2\u20133 lines at clamp(44\u201372px); AIDA verified (Attention hero, Interest comparison, Desire cache advantage, Action CTA); bento_density: grid-auto-flow:dense present; centered hero + centered actions enforced; button contrast checked on #0a0a0a/#ffffff.",
+  "generated_at": "2026-07-04T19:19:54.730302+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents compared for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super vs ChatGPT for people evaluating personal AI agents and computer\u2011use automation. ChatGPT remains a world\u2011class conversational assistant and is expanding into agents and scheduled automation. Super is positioned for users who want durable computer\u2011use workflows, with a reusable computer\u2011use cache that makes repeated runs faster and cheaper over time. The page also situates Gemini, Grok, Siri, Folk, and Orchids as market context."
+}
